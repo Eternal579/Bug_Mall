@@ -1,0 +1,32 @@
+h2 {
+    text-align: center;
+}
+.product {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    vertical-align: top;
+}
+.product img {
+    width: 30%;
+    height: 200px;
+}
+.product h3 {
+    margin-top: 10px;
+}
+.product p {
+    margin: 5px 0;
+}
+.product button {
+    margin-top: 10px;
+}
+.details {
+    display: none;
+}
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
