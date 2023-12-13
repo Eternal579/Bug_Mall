@@ -12,3 +12,6 @@
 ### src/main/java/com/example/mall_demo主要是servlet代码
 ### pom.xml为maven的配置文件
 ### 其余文件皆为idea自动生成的文件。
+## ATTENTION！
+- **src/main/java/com/example/mall_demo/EmailSender.java，此文件中的邮箱以及密码均被替换成不可用的"example@gmail.com"与"password"。**
+- **若想验证确认邮件有没有正确工作，一定要自己注册一个可用邮箱的号，我给的测试账户是我自己的邮箱！！！**
